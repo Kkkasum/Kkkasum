@@ -26,6 +26,6 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kkkasum&theme=dark-smoky&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kkkasum&theme=dark-smoky&background=000000)](https://git.io/streak-stats)
 ###
-[![GitHub stats]([https://github-readme-stats.vercel.app/api?username=kkkasum&show_icons=true&theme=radical])](https://github.com/kkkasum/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kkkasum&count_private=true&show_icons=true&theme=dark)
