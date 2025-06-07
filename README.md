@@ -34,3 +34,5 @@ Welcome
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kkkasum&theme=dark-smoky&background=000000)](https://git.io/streak-stats)
 ###
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kkkasum&count_private=true&show_icons=true&theme=dark)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Kkkasum)
