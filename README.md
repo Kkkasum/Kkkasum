@@ -1,4 +1,9 @@
-### Hi there 👋
+<div id="header" align="center">
+<img src="https://giphy.com/gifs/true-detective-rust-cohle-oh-kDkccdj1BoNzi" height="280px" width="500" align="center"/>
+</div>
+<h1>
+Welcome to IT-Ronin page
+</h1>
 
 ### :hammer_and_wrench: Languages and Tools :
 #### Back-End
